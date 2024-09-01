@@ -8,4 +8,4 @@ order: 1
 #cover: /assets/logoMT2.png
 ---
 
-We build useful Apps, and we strive to maintain their value.
+We will work to build and maintain useful apps.
